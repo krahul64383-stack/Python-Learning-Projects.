@@ -1,2 +1,2 @@
-# Python-Learning-Projects.
+# Python-Projects.
 Collection of Python mini-projects
